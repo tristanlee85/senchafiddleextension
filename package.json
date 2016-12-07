@@ -1,8 +1,8 @@
 {
-    "name": "supportportalfixes",
-    "version": "2.1.28",
-    "description": "Support Portal Customizations",
-    "main": "supportportal.js",
+    "name": "senchafiddleext",
+    "version": "0.1.0",
+    "description": "Sencha Fiddle Customizations",
+    "main": "bootstrap.js",
     "dependencies": {},
     "devDependencies": {
         "grunt": "~0.4.5",
@@ -12,14 +12,14 @@
     "scripts": {},
     "repository": {
         "type": "git",
-        "url": "git+https://tristanlee85@github.com/tristanlee85/supportportal.git"
+        "url": "git+https://tristanlee85@github.com/tristanlee85/senchafiddleextension.git"
     },
     "author": "Tristan Lee",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/tristanlee85/supportportal/issues"
+        "url": "https://github.com/tristanlee85/senchafiddleextension/issues"
     },
-    "homepage": "https://github.com/tristanlee85/supportportal#readme",
+    "homepage": "https://github.com/tristanlee85/senchafiddleextension#readme",
     "engines": {
         "node": ">= 0.10.0"
     }

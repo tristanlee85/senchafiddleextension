@@ -25,7 +25,7 @@ module.exports = function (grunt) {
         },
 
         changelog: {
-            portal: {
+            fiddle: {
                 options: {
                     after: 'v<%= package.version %>',
                     partials: {
